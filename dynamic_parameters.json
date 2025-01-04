@@ -1,8 +1,8 @@
 [
 	{
 		"p_relative_url" : "lagger8833/indian-railways-data-pipeline/refs/heads/main/dataset/train_info.csv",
-		"p_directory" : "train-info",
-		"p_file_name" : "train-info.csv"
+		"p_directory" : "train_info",
+		"p_file_name" : "train_info.csv"
 	},
 	{
 		"p_relative_url" : "lagger8833/indian-railways-data-pipeline/refs/heads/main/dataset/train_schedule.csv",
